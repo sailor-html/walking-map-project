@@ -14,7 +14,7 @@
 <body>
 <div id="map"></div>
 <script>
-mapboxgl.accessToken = "pk.eyJ1Ijoic2FpbG9yZCIsImEiOiJjbWxneXNqdmswM282M2NwejN2aDM0dWQ3In0.OFvdgB494jYDPKV4Uv41mw";
+mapboxgl.accessToken = 'pk.eyJ1Ijoic2FpbG9yZCIsImEiOiJjbWxneXNqdmswM282M2NwejN2aDM0dWQ3In0.OFvdgB494jYDPKV4Uv41mw';
 
 const map = new mapboxgl.Map({
     container: 'map',
@@ -24,7 +24,6 @@ const map = new mapboxgl.Map({
 });
 
 map.on('load', () => {
-
     // Route line
     map.addSource('route', { type: 'geojson', data: 'map.geojson' });
     map.addLayer({

@@ -46,8 +46,8 @@ map.on('load', () => {
     // Popups for photo points
     map.on('click', 'photo-points', (e) => {
         const coords = e.features[0].geometry.coordinates.slice();
-        const desc = e.features[0].properties.description;
-        const photo = e.features[0].properties.photoURL;
+        const desc = e.features[0].properties["What am I looking at?"];
+        const photo = e.features[0].properties.PhotoURL;
 
         new mapboxgl.Popup()
             .setLngLat(coords)

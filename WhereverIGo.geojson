@@ -1,0 +1,239 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "23",
+        "GlobalID": "7e987063-a500-4d03-923d-47aac88138b3",
+        "Date and Time": "4/3/2026 18:33",
+        "What am I looking at?": "Spruce alley",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-012850_2.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.1563,
+          34.060604
+        ],
+        "type": "Point"
+      },
+      "id": "04c56622ed10a9733ba702fa640b5058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "26",
+        "GlobalID": "4c06989c-3669-4e9c-93c6-e3182890bd8f",
+        "Date and Time": "4/3/2026 18:42",
+        "What am I looking at?": "Fence",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-014305_6.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.150485,
+          34.05979
+        ],
+        "type": "Point"
+      },
+      "id": "0d4ea72119991fe4039800570c58970d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "30",
+        "GlobalID": "671e6a31-f450-40b3-8b24-b11b6aa6da90",
+        "Date and Time": "4/3/2026 18:52",
+        "What am I looking at?": "Airable land",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-015246_10.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.149333,
+          34.060859
+        ],
+        "type": "Point"
+      },
+      "id": "10772e2a872458d0f2084b47fdeee634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "22",
+        "GlobalID": "9ece0d0d-33c8-4657-b290-c64ba97276d4",
+        "Date and Time": "4/3/2026 18:28",
+        "What am I looking at?": "Road (Judson)",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-012850_1.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.156426,
+          34.063886
+        ],
+        "type": "Point"
+      },
+      "id": "1962ff5bc9ea201ebf002f639eedebf1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "24",
+        "GlobalID": "c6fed59c-f472-4de5-bf78-477848b69ce7",
+        "Date and Time": "4/3/2026 18:36",
+        "What am I looking at?": "Flower",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-013624_4.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.155769,
+          34.058936
+        ],
+        "type": "Point"
+      },
+      "id": "31804ba8ab57fcbf61ce7bc07302e2e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "33",
+        "GlobalID": "f346c6ba-ecf2-417f-a43c-c89f67d362ab",
+        "Date and Time": "4/3/2026 19:00",
+        "What am I looking at?": "Weeping",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-020055_13.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.151892,
+          34.064093
+        ],
+        "type": "Point"
+      },
+      "id": "72780e384b6fe27df2bc43c5c31ccd4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "25",
+        "GlobalID": "189cb3c3-edd5-4fee-a0cf-ba74217c6858",
+        "Date and Time": "4/3/2026 18:41",
+        "What am I looking at?": "Watershed",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-014119_5.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.151827,
+          34.05988
+        ],
+        "type": "Point"
+      },
+      "id": "7859013d1642fb74e30dc39c91f1f298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "31",
+        "GlobalID": "90c654e8-5eb0-4469-bde3-2844152c0bcc",
+        "Date and Time": "4/3/2026 18:54",
+        "What am I looking at?": "Me",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-015421_11.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.150535,
+          34.060583
+        ],
+        "type": "Point"
+      },
+      "id": "8c75c09ff9e1ed5d53e50a10a0ddfe99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "28",
+        "GlobalID": "971cfba8-8a35-4bcd-974d-ec834b773525",
+        "Date and Time": "4/3/2026 18:49",
+        "What am I looking at?": "Service above self",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-014959_8.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.147508,
+          34.060921
+        ],
+        "type": "Point"
+      },
+      "id": "91fde8b10d62dfc71b538093794e7984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "32",
+        "GlobalID": "1739a14f-6135-4fc1-b095-2a5d32d1f603",
+        "Date and Time": "4/3/2026 18:55",
+        "What am I looking at?": "Blindfolded boys",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-015615_12.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.151984,
+          34.060469
+        ],
+        "type": "Point"
+      },
+      "id": "9ca7b40e066c55d983778cd20d741c2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "27",
+        "GlobalID": "13d00ccd-4927-4745-b010-d01c4fed4944",
+        "Date and Time": "4/3/2026 18:46",
+        "What am I looking at?": "Ditch",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-014659_7.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.147521,
+          34.059206
+        ],
+        "type": "Point"
+      },
+      "id": "b88e743e3c0d857d9cb98c1570db5916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "34",
+        "GlobalID": "6106f035-04e4-492e-a6d2-236a591163f2",
+        "Date and Time": "4/3/2026 19:04",
+        "What am I looking at?": "Reflectance",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-020412_14.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.152229,
+          34.066339
+        ],
+        "type": "Point"
+      },
+      "id": "d8fc24789b9aee490e6c01a6fbee6ac5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ObjectID": "29",
+        "GlobalID": "f3f1add5-3a3d-4dd5-9151-e04d4aced41a",
+        "Date and Time": "4/3/2026 18:50",
+        "What am I looking at?": "Orange man group",
+        "PhotoURL": "https://raw.githubusercontent.com/sailor-html/walking-map-project/main/images/photo-20260404-015040_9.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.147805,
+          34.060994
+        ],
+        "type": "Point"
+      },
+      "id": "ddc18929cbe9f6e345964fe4f78bc29e"
+    }
+  ],
+  "type": "FeatureCollection"
+}
